@@ -1,27 +1,26 @@
-# Store
+# Clone da PlayStation Store com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este projeto é um clone da página da PlayStation Store desenvolvido por Erick Conceição usando o framework Angular.
 
-## Development server
+## Descrição
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+O objetivo deste projeto é recriar a interface da PlayStation Store, proporcionando aos usuários uma experiência semelhante à página oficial da loja, mas utilizando Angular para o desenvolvimento.
 
-## Code scaffolding
+## Recursos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Interface semelhante à da PlayStation Store.
+- Integração com o framework Angular.
 
-## Build
+## Pré-requisitos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Antes de executar o projeto, você precisará ter o Angular instalado em sua máquina. Caso não tenha, siga as instruções na documentação oficial do Angular para instalá-lo: [Angular - Guia de Instalação](https://angular.io/guide/setup-local).
 
-## Running unit tests
+## Instalação
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone este repositório em sua máquina:
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+## Desenvolvedor
+ERICK CONCEIÇÃO
