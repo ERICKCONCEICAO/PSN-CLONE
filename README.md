@@ -1,3 +1,6 @@
+![image](https://github.com/ERICKCONCEICAO/PSN-CLONE/assets/143230573/ac5ad4f4-8773-4f19-bfa6-f1b9c8998b24)
+
+
 # Clone da PlayStation Store com Angular
 
 Este projeto é um clone da página da PlayStation Store desenvolvido por Erick Conceição usando o framework Angular.
